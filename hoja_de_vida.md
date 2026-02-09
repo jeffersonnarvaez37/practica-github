@@ -17,8 +17,6 @@ Persona responsable, organizada y comprometida con el trabajo bien hecho. Con ha
 ## Habilidades Técnicas
 - Git y GitHub
 - Git Bash
-- Visual Studio Code
-- Markdown
 
 ## Proyectos
 - **Práctica GitHub**
