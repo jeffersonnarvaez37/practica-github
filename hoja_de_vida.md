@@ -7,7 +7,7 @@
 - **GitHub:** https://github.com/jeffersonnarvaez37
 
 ## Perfil Profesional
-Estudiante en formación en desarrollo de software, con conocimientos básicos en control de versiones usando Git y GitHub, manejo de Visual Studio Code y documentación en Markdown. Interés en seguir aprendiendo buenas prácticas de desarrollo.
+Persona responsable, organizada y comprometida con el trabajo bien hecho. Con habilidades para el aprendizaje rápido, el trabajo en equipo y la resolución de problemas. Interesado/a en crecer profesionalmente y aportar de manera positiva a la empresa mediante el cumplimiento de objetivos y buenas prácticas laborales.
 
 ## Formación Académica
 - Curso / Técnico / Tecnología en desarrollo de software  
@@ -19,8 +19,6 @@ Estudiante en formación en desarrollo de software, con conocimientos básicos e
 - Git Bash
 - Visual Studio Code
 - Markdown
-- Trabajo con ramas (branch)
-- Pull request y merge
 
 ## Proyectos
 - **Práctica GitHub**
@@ -29,3 +27,16 @@ Estudiante en formación en desarrollo de software, con conocimientos básicos e
 
 ## Evidencias
 Este repositorio contiene evidencias prácticas del uso de GitHub y Git Bash en Windows.
+
+## HABILIDADES
+
+Trabajo en equipo
+
+Responsabilidad
+
+Manejo básico de computador
+
+Organización
+
+## DISPONIBILIDAD
+Medio tiempo
