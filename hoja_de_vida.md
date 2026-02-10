@@ -42,3 +42,27 @@ Aprendisaje rapido
 
 ## DISPONIBILIDAD
 Medio tiempo
+
+## Competencias personales
+Puntualidad
+
+Disciplina
+
+Respeto
+
+Adaptabilidad
+
+Buena actitud
+
+
+## Conocimientos básicos
+Word / Excel básico
+
+Uso de correo electrónico
+
+Redes sociales
+
+Canva (si sabes)
+
+Atención al cliente
+
