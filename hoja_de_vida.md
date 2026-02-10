@@ -5,7 +5,7 @@
 - **Ciudad:** Colombia
 - **Correo:** jeffersonnarvaez37@gmail.com
 - **GitHub:** https://github.com/jeffersonnarvaez37
-
+- **Telefono:** 3011113588
 ## Perfil Profesional
 Persona responsable, organizada y comprometida con el trabajo bien hecho. Con habilidades para el aprendizaje rápido, el trabajo en equipo y la resolución de problemas. Interesado/a en crecer profesionalmente y aportar de manera positiva a la empresa mediante el cumplimiento de objetivos y buenas prácticas laborales.
 
@@ -15,8 +15,10 @@ Persona responsable, organizada y comprometida con el trabajo bien hecho. Con ha
 - Año: 2025
 
 ## Habilidades Técnicas
-- Git y GitHub
-- Git Bash
+- Mantenimiento y computacion de PC
+- Excel basico
+  
+
 
 ## Proyectos
 - **Práctica GitHub**
@@ -35,6 +37,8 @@ Responsabilidad
 Manejo básico de computador
 
 Organización
+
+Aprendisaje rapido 
 
 ## DISPONIBILIDAD
 Medio tiempo
